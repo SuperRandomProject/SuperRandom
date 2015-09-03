@@ -1744,7 +1744,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a SuperRandom address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <source>Enter a SuperRandom address (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1888,8 +1888,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>العنوان لارسال المعاملة الي (مثلا PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>The address to send the payment to  (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
+        <translation>العنوان لارسال المعاملة الي (مثلا SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1918,8 +1918,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a SuperRandom address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>ادخال عنوان البلاك كوين (مثلا PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>Enter a SuperRandom address (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
+        <translation>ادخال عنوان البلاك كوين (مثلا SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</translation>
     </message>
 </context>
 <context>
@@ -1942,7 +1942,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <source>The address to sign the message with (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2006,7 +2006,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <source>The address the message was signed with (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2022,7 +2022,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a SuperRandom address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
+        <source>Enter a SuperRandom address (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
         <translation type="unfinished"/>
     </message>
     <message>

@@ -24,10 +24,10 @@ SignVerifyMessageDialog::SignVerifyMessageDialog(QWidget *parent) :
 
 #if (QT_VERSION >= 0x040700)
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->addressIn_SM->setPlaceholderText(tr("Enter a SuperRandom address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)"));
+    ui->addressIn_SM->setPlaceholderText(tr("Enter a SuperRandom address (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)"));
     ui->signatureOut_SM->setPlaceholderText(tr("Click \"Sign Message\" to generate signature"));
 
-    ui->addressIn_VM->setPlaceholderText(tr("Enter a SuperRandom address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)"));
+    ui->addressIn_VM->setPlaceholderText(tr("Enter a SuperRandom address (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)"));
     ui->signatureIn_VM->setPlaceholderText(tr("Enter SuperRandom signature"));
 #endif
 

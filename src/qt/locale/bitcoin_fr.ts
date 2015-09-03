@@ -1766,8 +1766,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a SuperRandom address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Entrer une adresse SuperRandom (par ex: PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>Enter a SuperRandom address (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
+        <translation>Entrer une adresse SuperRandom (par ex: SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1910,8 +1910,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Adresse destinataire du paiement (ex: PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>The address to send the payment to  (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
+        <translation>Adresse destinataire du paiement (ex: SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a SuperRandom address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Entrer une adresse SuperRandom (ex: PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>Enter a SuperRandom address (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
+        <translation>Entrer une adresse SuperRandom (ex: SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</translation>
     </message>
 </context>
 <context>
@@ -1964,8 +1964,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Entrer une adresse SuperRandom (ex: PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>The address to sign the message with (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
+        <translation>Entrer une adresse SuperRandom (ex: SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2028,8 +2028,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>L&apos;adresse avec laquelle le message à été signé (ex: PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>The address the message was signed with (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
+        <translation>L&apos;adresse avec laquelle le message à été signé (ex: SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2044,8 +2044,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a SuperRandom address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Entrer une adresse SuperRandom (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>Enter a SuperRandom address (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
+        <translation>Entrer une adresse SuperRandom (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</translation>
     </message>
     <message>
         <location line="-2"/>

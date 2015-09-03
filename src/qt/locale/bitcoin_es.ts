@@ -1769,8 +1769,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a SuperRandom address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Introduce una dirección SuperRandom (p.ej. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>Enter a SuperRandom address (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
+        <translation>Introduce una dirección SuperRandom (p.ej. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1913,8 +1913,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>La dirección a la que se quiere enviar el pago (p.ej. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>The address to send the payment to  (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
+        <translation>La dirección a la que se quiere enviar el pago (p.ej. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1943,8 +1943,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a SuperRandom address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Introduce una dirección SuperRandom (p.ej. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>Enter a SuperRandom address (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
+        <translation>Introduce una dirección SuperRandom (p.ej. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</translation>
     </message>
 </context>
 <context>
@@ -1967,8 +1967,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>La dirección a firmar con un mensaje (p.ej. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>The address to sign the message with (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
+        <translation>La dirección a firmar con un mensaje (p.ej. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2031,8 +2031,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>La dirección firmada con un mensaje (p.ej. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>The address the message was signed with (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
+        <translation>La dirección firmada con un mensaje (p.ej. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2047,8 +2047,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a SuperRandom address (e.g. PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</source>
-        <translation>Introduce una dirección SuperRandom (p.ej PXkRZYXwNDxsgvMmtE3M7rXJKDohbf54Pm)</translation>
+        <source>Enter a SuperRandom address (e.g. SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</source>
+        <translation>Introduce una dirección SuperRandom (p.ej SP4pSsGfD4L9t3ikU651XAbSS13fVCHDq2)</translation>
     </message>
     <message>
         <location line="-2"/>
