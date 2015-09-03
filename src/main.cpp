@@ -976,21 +976,88 @@ if (pindexBest->nHeight+1 == 1) { nSubsidy = 100000000 * COIN; return nSubsidy; 
     return nSubsidy + nFees;
 }
 
+int64_t GetRandomProofOfStakeReward()
+{
+	string input = pindexBest->GetBlockHash().ToString().substr(10, 1);
+	if (input == "a")
+	{
+		return 1;
+	}
+	if (input == "b")
+	{
+		return 100;
+	}
+	if (input == "c")
+	{
+		return 75;
+	}
+	if (input == "d")
+	{
+		return 10000;
+	}
+	if (input == "e")
+	{
+		return 11;
+	}
+	if (input == "f")
+	{
+		return 1267;
+	}
+	if (input == "0")
+	{
+		return 478;
+	}
+	if (input == "1")
+	{
+		return 22;
+	}
+	if (input == "2")
+	{
+		return 45;
+	}
+	if (input == "3")
+	{
+		return 566;
+	}
+	if (input == "5")
+	{
+		return 1;
+	}
+	if (input == "6")
+	{
+		return 30;
+	}
+	if (input == "7")
+	{
+		return 12;
+	}
+	if (input == "8")
+	{
+		return 160;
+	}
+	if (input == "9")
+	{
+		return 13;
+	}
+	if (input == "4")
+	{
+		return 55;
+	}
+
+
+	return 1;
+}
+ 
 const int DAILY_BLOCKCOUNT =  2880;
 // miner's coin stake reward based on coin age spent (coin-days)
 int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
 {
-    int64_t nRewardCoinYear;
-
-	
-	int min = 1;
-	int max = 10000;
-	
-    nRewardCoinYear = rand()%(max-min + 1) + min;
+    int64_t nRewardCoinYear = GetRandomProofOfStakeReward();
 
     int64_t nSubsidy = nCoinAge * nRewardCoinYear / 365 / COIN;
 
-
+	printf("Super random percentage: %" PRId64 "\n", nRewardCoinYear);
+	
     if (fDebug && GetBoolArg("-printcreation"))
         printf("GetProofOfStakeReward(): create=%s nCoinAge=%"PRId64"\n", FormatMoney(nSubsidy).c_str(), nCoinAge);
 
